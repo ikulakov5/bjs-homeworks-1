@@ -26,3 +26,6 @@ function calculateTask3(){
     let taskResult = calculateFormula();
     document.getElementById("task3Result").innerText = taskResult;
 }
+
+
+1
